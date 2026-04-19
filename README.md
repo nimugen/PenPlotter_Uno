@@ -92,11 +92,4 @@ Microstepping is configured via jumpers on the CNC Shield. Default: 1/16 step.
 
 ---
 
-## License
-
-Hardware design files: [CERN-OHL-S v2](https://ohwr.org/cern_ohl_s_v2.txt)  
-Software/scripts: MIT
-
----
-
 nimugen
